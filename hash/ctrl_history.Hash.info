@@ -1,0 +1,6 @@
+HASHNAME = "ctrl_history"
+PATH = "/sendq1/hash"
+DESC = "UMS_alarm_history_data"
+TABLE_LENGTH = 50000
+MAX_KEY_LENGTH = 255
+MAX_DATA_LENGTH = 32

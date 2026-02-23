@@ -1,0 +1,10 @@
+PID=2102791
+RUN_NAME="/ums24/wiseu/fq/exec/fq_file_evt_handler"
+EXE_NAME="fq_file_evt_handler"
+CWD="/ums24/wiseu/fq/admin".
+USER_CMD="/ums24/wiseu/fq/exec/fq_file_evt_handler"
+ARG-0="/ums24/wiseu/fq/conf/fq_file_evt_handler.conf"
+UPTIME_BIN=1771423746
+UPTIME_ASCII=20260218:230906
+RESTART_FLAG=1
+HEARTBEAT_SEC=60

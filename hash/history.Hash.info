@@ -1,0 +1,6 @@
+HASHNAME = "history"
+PATH = "/sendq1/hash"
+DESC = "UMS_history_data"
+TABLE_LENGTH = 3000
+MAX_KEY_LENGTH = 128
+MAX_DATA_LENGTH = 512

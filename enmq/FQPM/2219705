@@ -1,0 +1,10 @@
+PID=2219705
+RUN_NAME="/ums24/wiseu/fq/exec/fq_disaster"
+EXE_NAME="fq_disaster"
+CWD="/ums24/wiseu/fq/admin".
+USER_CMD="/ums24/wiseu/fq/exec/fq_disaster"
+ARG-0="/ums24/wiseu/fq/conf/fq_disaster.conf"
+UPTIME_BIN=1771745988
+UPTIME_ASCII=20260222:163948
+RESTART_FLAG=1
+HEARTBEAT_SEC=60

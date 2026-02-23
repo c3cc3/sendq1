@@ -1,0 +1,69 @@
+# 1-th column: path
+# 2-th column: qname
+# 3-th       : mapping_num
+# 4-th       : multi_num
+# 5-th       : msglen
+#
+/sendq1/enmq|TST|100|100|65536
+/sendq1/enmq|FQPM_ALARM|100|100|2048
+/sendq1/enmq|GW_ONL_REQ|100|100|8192
+/sendq1/enmq|GW_ONL_HIS|100|100|8192
+/sendq1/enmq|DEL_HASH|100|10|1024
+/sendq1/enmq|KT_SM_ONL|100|100|8192
+/sendq1/enmq|KT_MM_ONL|100|100|8192
+/sendq1/enmq|SK_SM_ONL|100|100|8192
+/sendq1/enmq|SK_MM_ONL|100|100|8192
+/sendq1/enmq|LG_SM_ONL|100|100|8192
+/sendq1/enmq|LG_MM_ONL|100|100|8192
+/sendq1/enmq|IB_SM_ONL|100|100|8192
+/sendq1/enmq|IB_MM_ONL|100|100|8192
+/sendq1/enmq|MY_SM_ONL|100|100|8192
+/sendq1/enmq|MY_MM_ONL|100|100|8192
+/sendq1/enmq|GW_HIST_1|100|100|8192
+/sendq1/enmq|GW_HIST_2|100|100|8192
+/sendq1/enmq|GW_HIST_3|100|100|8192
+/sendq1/enmq|AGENT_RECOVERY|10|100|2048
+/sendq1/enmq|FILE_EVENT|100|10|1024
+#
+/sendq1/enmq|WUIF_FQ_EZ|100|10|65536
+/sendq1/enmq|WUIF_FQ_CI|100|10|65536
+/sendq1/enmq|WUIF_FQ_CR|100|10|65536
+/sendq1/enmq|WUIF_FQ_RS|100|10|65536
+/sendq1/enmq|WUIF_FQ_CM|100|10|65536
+#
+/sendq1/enmq|WUIF_DO_RD|100|10|65536
+/sendq1/enmq|WUIF_DO_ND|100|10|65536
+/sendq1/enmq|WUIF_DB_BD|100|10|65536
+#
+/sendq1/enmq|WUIF_SO_RP|100|10|4096
+/sendq1/enmq|WUIF_SO_MH|100|10|4096
+/sendq1/enmq|WUIF_SO_FU|100|10|4096
+#
+/sendq1/enmq|WUIF_FB_RE|100|10|4096
+/sendq1/enmq|WUIF_SO_RE|100|10|4096
+/sendq1/enmq|WUIF_HO_NF|100|10|4096
+#
+/sendq1/enmq|WUIF_QO_FS|100|10|4096
+#
+/sendq1/enmq|INTG_NOTI_REQ|100|10|4096
+#
+/sendq1/enmq|ALT_DIST_REQ|100|1000|4096
+/sendq1/enmq|XMS_DIST_REQ|100|1000|4096
+/sendq1/enmq|RCS_DIST_REQ|100|1000|4096
+/sendq1/enmq|ALT_HIST_RSLT|100|1000|4096
+/sendq1/enmq|XMS_HIST_RSLT|100|1000|4096
+/sendq1/enmq|RCS_HIST_RSLT|100|1000|4096
+#
+#/ums/wiseu/fq/enmq|NASQ|100|1000|4096
+# kakao alim talk
+/sendq1/enmq|MT_AL_ONL|100|10|4096
+/sendq1/enmq|MW_AL_ONL|100|10|4096
+# RCS
+/sendq1/enmq|KT_RC_ONL|100|10|4096
+/sendq1/enmq|SK_RC_ONL|100|10|4096
+/sendq1/enmq|LG_RC_ONL|100|10|4096
+/sendq1/enmq|IB_RC_ONL|100|10|4096
+#
+/sendq1/enmq|CTRL_ONL_SS|100|10|2048
+/sendq1/enmq|CTRL_ONL_AL|100|10|2048
+/sendq1/enmq|CTRL_ONL_RC|100|10|2048

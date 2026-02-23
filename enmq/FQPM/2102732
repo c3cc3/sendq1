@@ -1,0 +1,10 @@
+PID=2102732
+RUN_NAME="/ums24/wiseu/fq/exec/fq_handler_svr_json"
+EXE_NAME="fq_handler_svr_json"
+CWD="/ums24/wiseu/fq/admin".
+USER_CMD="/ums24/wiseu/fq/exec/fq_handler_svr_json"
+ARG-0="/ums24/wiseu/fq/conf/fq_handler_svr_json.conf"
+UPTIME_BIN=1771423744
+UPTIME_ASCII=20260218:230904
+RESTART_FLAG=1
+HEARTBEAT_SEC=60

@@ -1,0 +1,10 @@
+PID=2102774
+RUN_NAME="/ums24/wiseu/fq/exec/fq_agent_recovery"
+EXE_NAME="fq_agent_recovery"
+CWD="/ums24/wiseu/fq/admin".
+USER_CMD="/ums24/wiseu/fq/exec/fq_agent_recovery"
+ARG-0="/ums24/wiseu/fq/conf/fq_agent_recovery.conf"
+UPTIME_BIN=1771423745
+UPTIME_ASCII=20260218:230905
+RESTART_FLAG=1
+HEARTBEAT_SEC=60

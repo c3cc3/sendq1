@@ -1,0 +1,6 @@
+HASHNAME = "ums"
+PATH = "/sendq1/hash"
+DESC = "UMS_hash_data"
+TABLE_LENGTH = 50000
+MAX_KEY_LENGTH = 128
+MAX_DATA_LENGTH = 512

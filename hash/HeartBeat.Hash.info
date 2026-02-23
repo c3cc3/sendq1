@@ -1,0 +1,6 @@
+HASHNAME = "HeartBeat"
+PATH = "/sendq1/hash"
+DESC = "UMS_HeartBeat"
+TABLE_LENGTH = 50000
+MAX_KEY_LENGTH = 16
+MAX_DATA_LENGTH = 32

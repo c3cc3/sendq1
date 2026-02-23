@@ -1,0 +1,10 @@
+PID=234902
+RUN_NAME="/ums24/wiseu/fq/exec/fq_qmon_svr"
+EXE_NAME="fq_qmon_svr"
+CWD="/ums24/wiseu/fq/admin".
+USER_CMD="/ums24/wiseu/fq/exec/fq_qmon_svr"
+ARG-0="/ums24/wiseu/fq/conf/fq_qmon_svr.conf"
+UPTIME_BIN=1771610448
+UPTIME_ASCII=20260221:030048
+RESTART_FLAG=1
+HEARTBEAT_SEC=60

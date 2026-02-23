@@ -1,0 +1,10 @@
+PID=2102777
+RUN_NAME="/ums24/wiseu/fq/exec/fq_alarm_svr"
+EXE_NAME="fq_alarm_svr"
+CWD="/ums24/wiseu/fq/admin".
+USER_CMD="/ums24/wiseu/fq/exec/fq_alarm_svr"
+ARG-0="/ums24/wiseu/fq/conf/fq_alarm_svr.conf"
+UPTIME_BIN=1771423746
+UPTIME_ASCII=20260218:230906
+RESTART_FLAG=1
+HEARTBEAT_SEC=60

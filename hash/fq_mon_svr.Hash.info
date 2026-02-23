@@ -1,0 +1,6 @@
+HASHNAME = "fq_mon_svr"
+PATH = "/sendq1/hash"
+DESC = "fq_mon_svr hash_data"
+TABLE_LENGTH = 5000
+MAX_KEY_LENGTH = 128
+MAX_DATA_LENGTH = 512

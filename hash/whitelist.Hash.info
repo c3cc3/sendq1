@@ -1,0 +1,6 @@
+HASHNAME = "whitelist"
+PATH = "/sendq1/hash"
+DESC = "UMS_whitelist_data"
+TABLE_LENGTH = 500
+MAX_KEY_LENGTH = 20
+MAX_DATA_LENGTH = 64

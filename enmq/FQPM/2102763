@@ -1,0 +1,10 @@
+PID=2102763
+RUN_NAME="/ums24/wiseu/fq/exec/fq_ratio_distribute"
+EXE_NAME="fq_ratio_distribute"
+CWD="/ums24/wiseu/fq/admin".
+USER_CMD="/ums24/wiseu/fq/exec/fq_ratio_distribute"
+ARG-0="/ums24/wiseu/fq/conf/fq_ratio_distribute_rcs_online.conf"
+UPTIME_BIN=1771423745
+UPTIME_ASCII=20260218:230905
+RESTART_FLAG=1
+HEARTBEAT_SEC=60

@@ -1,0 +1,11 @@
+./enmq/ALT_DIST_REQ.r
+./enmq/TST.r
+./enmq/ALT_HIST_RSLT.r
+./enmq/XMS_DIST_REQ.r
+./enmq/RCS_HIST_RSLT.r
+./enmq/XMS_HIST_RSLT.r
+./enmq/RCS_DIST_REQ.r
+./enmq/KT_MM_ONL.r
+./enmq/GW_HIST_1.r
+./enmq/WUIF_DO_RD.r
+*.log

@@ -1,0 +1,10 @@
+PID=2369830
+RUN_NAME="/ums24/wiseu/fq/exec/fq_agent_threads"
+EXE_NAME="fq_agent_threads"
+CWD="/ums24/wiseu/fq/admin".
+USER_CMD="/ums24/wiseu/fq/exec/fq_agent_threads"
+ARG-0="/ums24/wiseu/fq/conf/fq_agent_threads.conf"
+UPTIME_BIN=1771492268
+UPTIME_ASCII=20260219:181108
+RESTART_FLAG=1
+HEARTBEAT_SEC=60
