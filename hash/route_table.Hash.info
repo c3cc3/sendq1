@@ -1,0 +1,6 @@
+HASHNAME = "route_table"
+PATH = "/sendq1/hash"
+DESC = "route_table"
+TABLE_LENGTH = 2000
+MAX_KEY_LENGTH = 32
+MAX_DATA_LENGTH = 64
